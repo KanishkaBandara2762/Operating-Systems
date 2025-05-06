@@ -1,0 +1,47 @@
+mkdir creator_1
+cd creator_1
+mkdir file_1
+mkdir file_2
+mkdir file_3
+mkdir file_4
+cd..
+mkdir creator_2
+cd creator_2
+mkdir file_1
+mkdir file_2
+mkdir file_3
+mkdir file_4
+mkdir file_5
+cd.. 
+mkdir creator_3
+cd creator_3
+mkdir file_1
+cd.. 
+mkdir creator_4
+cd creator_4
+mkdir file_1
+mkdir file_2
+cd.. 
+mkdir creator_5
+cd creator_5
+mkdir file_1
+mkdir file_2
+mkdir file_3
+cd.. 
+mkdir creator_6
+cd creator_6
+mkdir file_1
+mkdir file_2
+mkdir file_3
+cd.. 
+mkdir creator_7
+mkdir creator_8
+mkdir creator_9
+cd creator_9
+mkdir file_1
+mkdir file_2
+mkdir file_3
+cd.. 
+mkdir creator_10
+cd creator_10
+mkdir file_1
